@@ -41213,6 +41213,21 @@
             "install_type": "unzip",
             "description": "Various image processing nodes."
         },
+		{
+  			"title": "ComfyUI_JR_DreamID-V",
+  			"author": "Goldlionren",
+  			"reference": "https://github.com/Goldlionren/ComfyUI_JR_DreamID-V",
+  			"description": "JR-maintained fork of RunningHub DreamID-V with low-VRAM, multi-GPU and CPU offloading support. Designed for 16GB GPUs and broader hardware compatibility.",
+  			"tags": [
+    			"video",
+    			"face swap",
+    			"dreamid",
+    			"low-vram",
+    			"multi-gpu"
+  			],
+  			"install_type": "git-clone",
+  			"install_url": "https://github.com/Goldlionren/ComfyUI_JR_DreamID-V.git"
+		},
         {
             "author": "aimingfail",
             "title": "Image2Halftone Node for ComfyUI",
